@@ -1,0 +1,5 @@
+packages:
+  - package: dbt-labs/codegen
+    version: 0.14.0
+  - package: kgmcquate/testgen
+    version: 1.0.3
